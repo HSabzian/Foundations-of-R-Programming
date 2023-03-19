@@ -1,4 +1,4 @@
-This is a pretty simple introduction to foundations of R programming, including following parts:
+This is a pretty simple introduction to foundations of R programming, including 4 following parts:
 
 ### Data structures
 1: vector
