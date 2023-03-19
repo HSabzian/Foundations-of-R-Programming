@@ -16,7 +16,7 @@ This is a pretty simple introduction to foundations of R programming, including 
 
 3: logical operators
 
-### Control flow
+### Control flows
 1: if
 
 2: ifelse 
