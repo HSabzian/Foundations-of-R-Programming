@@ -1,20 +1,20 @@
 This is a pretty simple introduction to foundations of R programming, including following parts:
 
 ### Data structures
-1: Vector
+1: vector
 
-2: Matrix
+2: matrix
 
-3: Dataframe
+3: dataframe
 
 4: list
 
 ### Operators 
-1: Arithmetic operators
+1: arithmetic operators
 
-2: Relational operators
+2: relational operators
 
-3: Logical operators
+3: logical operators
 
 ### Control flow
 1: if
