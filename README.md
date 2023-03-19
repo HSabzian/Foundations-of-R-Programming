@@ -2,11 +2,8 @@ This is a pretty simple introduction to foundations of R programming, including 
 
 ### Data structures
 1: Vector
-
 2: Matrix
-
 3: Dataframe
-
 4: list
 
 ### Operators 
