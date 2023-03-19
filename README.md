@@ -1,14 +1,21 @@
 This is a pretty simple introduction to foundations of R programming, including following parts:
 
 ### Data structures
-Vector
+1: Vector
 
-Matrix
+2: Matrix
 
-Dataframe
+3: Dataframe
 
-list
+4: list
 
 ### Operators 
+1: Arithmetic operators
+
+2: Relational operators
+
+3: Logical operators
+
 ### Control flow
+
 ### Used-defined functions
